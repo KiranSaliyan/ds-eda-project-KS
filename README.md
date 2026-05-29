@@ -32,3 +32,36 @@ pip freeze > requirements.txt
 --- 
 ## In Case of Failure
 If you fail to do the setup by yourself, then please revisit the previous repositories where you have done the setup and follow those steps.
+
+## EDA_Jennifer Analysis
+This jupiter notebook describes how data are plotted to analyse below hypothesis for the requirements matching Jennifer Montgomery who wants to buy house with below requirements:
+High budget, wants to show off, timing within a month, waterfront, renovated, high grades, resell within 1 year
+
+## Below Hypothesis table formulated
+✓ HYPOTHESIS 1: Grade & Condition Premium
+  - High grade (10-13) + Good condition (4-5) = Highest prices
+  - Broader market availability
+  - Jennifer can find luxury properties anywhere in the county
+
+✓ HYPOTHESIS 2: Size + Grade = Premium
+  - Large homes (3000+ sqft) with high grades command premium prices
+  - Spacious + High Quality = Luxury Appeal
+  - Perfect for someone who wants to "show off"
+  - Attracts wealthy buyers in resale market
+
+✓ HYPOTHESIS 3: Luxury Package (Multi-Factor)
+  - Combining Grade 10+, Condition 4+, Size 3000+ = True Luxury Segment
+  - Premium Luxury properties available
+  - Average Price: $?
+  - These are the HOTTEST resale items for wealthy buyers
+
+JENNIFER'S BEST STRATEGY:
+Target Tier 2 Premium Luxury properties:
+  • Grade: 11+
+  • Condition: 4+ (Good/Excellent)
+  • Size: 3000+ sqft (spacious, impressive)
+  • Price: $M
+  • Properties available: 
+  
+These properties have STRONG RESALE potential and appeal to luxury buyers
+
