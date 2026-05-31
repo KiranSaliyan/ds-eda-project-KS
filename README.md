@@ -65,3 +65,5 @@ Target Tier 2 Premium Luxury properties:
   
 These properties have STRONG RESALE potential and appeal to luxury buyers
 
+Internal team presentation: [[Presentation File](https://github.com/KiranSaliyan/ds-eda-project-KS/blob/main/King_County_Housing_EDA__Client_Presentation.pdf)]
+
